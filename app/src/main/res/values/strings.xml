@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decimal Conversion</string>
+
+    <string name="hello">Decimal Conversion</string>
+    <color name="titlebackgroundcolor">@color/orange</color>
+    <color name="titletextcolor">@color/white</color>
+</resources>
